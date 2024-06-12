@@ -1,0 +1,29 @@
+[
+    {
+        "imgs": [
+            "https://images.prismic.io/cusp/43da11bd-03f5-426f-804b-c79112adf8a3_sprout.jpg?auto=compress,format",
+            "https://images.prismic.io/cusp/48913ed9-381d-4479-b04a-5237fe136c15_sprout-l.jpg?auto=compress,format",
+            "https://images.prismic.io/cusp/8dbf3f4c-f6ac-4072-9b4e-b4297a29c711_sprout-r.jpg?auto=compress,format"
+        ],
+        "heading": "SPROUT",
+        "subTitle": "Champion 2020"
+    },
+    {
+        "imgs": [
+            "https://images.prismic.io/cusp/ca9636a5-0dec-45e7-ad5a-d32bb15ac63f_factory_preview_main.jpg?auto=compress,format",
+            "https://images.prismic.io/cusp/1b58ec60-cc78-443c-9ea0-3b6622d20b60_factory_preview_2.jpg?auto=compress,format",
+            "https://images.prismic.io/cusp/b34eee83-cf04-49b5-a714-a044af9aea20_factory_preview_1.jpg?auto=compress,format"
+        ],
+        "heading": "FACTORY",
+        "subTitle": "Spartan 2019"
+    },
+    {
+        "imgs": [
+            "https://images.prismic.io/cusp/6a352978-a03a-4a25-98ab-50f46a0f50a7_iStock-915736424-min.jpg?auto=compress,format",
+            "https://images.prismic.io/cusp/599686f4-7005-457d-8241-be3488929964_light_0024-min.jpg?auto=compress,format",
+            "https://images.prismic.io/cusp/a465858d-8638-41ed-b9e3-2f6dbbc984a5_iStock-1015958068-min.jpg?auto=compress,format"
+        ],
+        "heading": "PETIOLE",
+        "subTitle": "Warrior 2017"
+    }
+]
